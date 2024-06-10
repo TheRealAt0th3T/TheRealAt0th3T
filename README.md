@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hello, I'm Amara Tariq 	&#128512; </h1>
 
-<!--
-**TheRealAt0th3T/TheRealAt0th3T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I am a **fullstack** engineer, with a focus on **front-end** development
+  - This [demo](https://therealat0th3t.github.io/DreamTeamGitpage/demo.html) showcases a project I worked on as a fullstack engineer
+- I also have project work and experience in **Machine Learning** and **Natural Language Processing**
+  - [Toxic Player Validator](https://github.com/TheRealAt0th3T/ToxicPlayerValidator)
+  - [Search Engine](https://github.com/TheRealAt0th3T/SearchEngine)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/amaratariq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Amara Tariq" height="30" width="40"/></a>
+</p>
